@@ -1,3 +1,3 @@
-# ds-pandas2
+# ds-pandas_data_cleaning
 
-This repository describes more advanced (see [this repo](https://github.com/flatiron-school/ds-pandas1) for `pandas` 101!) `pandas` techniques for data science. It was created with love by the Flatiron School.
+This repository describes data cleaning techniques using `pandas`. It was created with love by the Flatiron School.
